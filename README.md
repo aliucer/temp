@@ -1,3 +1,2 @@
-# Instructions
 
 demo repository
